@@ -39,39 +39,39 @@ textarea,
 }
 
 h1 {
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-size: 32px;
   font-weight: bold;
   margin: 0px;
 }
 h2 {
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-size: 28px;
   font-weight: bold;
   margin: 16px 0 8px 0;
 }
 h3 {
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-size: 24px;
   font-weight: 700;
   margin: 8px 0 4px 0;
 }
 h4 {
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-size: 18px;
   font-weight: 600;
   margin-top: 5px;
   margin-bottom: 4px;
 }
 h5 {
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 4px;
 }
 h6 {
-  color: #3b3b3b;
+  color: #FFFFFF;
   font-size: 16px;
   font-weight: bold;
   margin-top: 5px;
@@ -122,7 +122,7 @@ footer a {
 }
 
 .headline span {
-  background-color: #f5f6f8;
+  background-color: #0d1117;
   border-radius: 5px;
   padding: 6px;
   margin-left: 12px;
@@ -137,7 +137,7 @@ footer a {
 }
 
 .statusContainer {
-  border: 1px solid #ededed;
+  border: 1px solid #0d1117;
   border-radius: 5px;
   padding-top: 20px;
   text-align: left;
@@ -219,22 +219,22 @@ footer a {
 
 .success {
   background-color: #4cae50;
-  color: #fff;
+  color: #0d1117;
 }
 
 .failure {
   background-color: #f44336;
-  color: #fff;
+  color: #0d1117;
 }
 
 .nodata {
-  background-color: #f8f8f8;
+  background-color: #0d1117;
   color: #ccc;
 }
 
 .partial {
   background-color: #ff9800;
-  color: #fff;
+  color: #0d1117;
 }
 
 .tooltip {
